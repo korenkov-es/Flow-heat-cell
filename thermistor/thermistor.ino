@@ -9,7 +9,7 @@ const int Led = 3;
 float T1 = 0;
 float T2 = 0;
 float Setpoint = 60;
-float power = 256;
+float power = 100;
 
 
 void setup() {
